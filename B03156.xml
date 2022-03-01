@@ -1,0 +1,276 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of the landing of Her Majestie at Portsmouth, after many high tempests, and a long distresse at sea; and how she was diligently and magnificently met with in the way by his highness the Duke of York, the Duke of Ormond, the Earl of Suffolk, the Earl of Chesterfield, and many other personages of honour: ... Together with a perfect account of her happy and most auspicious mariage [sic] to his most sacred Majesty, on Wednesday May 21. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03156</idno>
+            <idno type="STC">Wing E3620</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[50]</idno>
+            <idno type="EEBO-CITATION">99886875</idno>
+            <idno type="PROQUEST">ocm99886875</idno>
+            <idno type="VID">181381</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181381)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of the landing of Her Majestie at Portsmouth, after many high tempests, and a long distresse at sea; and how she was diligently and magnificently met with in the way by his highness the Duke of York, the Duke of Ormond, the Earl of Suffolk, the Earl of Chesterfield, and many other personages of honour: ... Together with a perfect account of her happy and most auspicious mariage [sic] to his most sacred Majesty, on Wednesday May 21. ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C. Wildebergh at the Globe in St. Katherines, and John Ruddiard at the Unicorn in Cornhill, under the Royal Exchange.,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "The Queens approach no sooner fill'd our ears,".</note>
+                  <note>In two columns.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181381:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <argument>
+               <p>
+                  <hi>An Exact and True RELATION</hi> OF The Landing of Her MAJESTIE at <hi>Portſmouth,</hi> after many high Tempeſts, and a long Diſtreſſe at Sea; and how She was diligently and magnifi<g ref="char:EOLhyphen"/>cently met with in the way by His Highneſs the Duke of <hi>York,</hi> the Duke of <hi>Ormond,</hi> the Earl of <hi>Suffolk,</hi> the Earl of <hi>Cheſterfield,</hi> and many other Perſonages of Honour: As alſo, the moſt pom<g ref="char:EOLhyphen"/>pous and ſolemn Joys expreſſed at Her Landing at <hi>Portſmouth,</hi> by a great confluence of the Flower of the Nobility and Gentry of this Nation, in which (on the firſt Report of Her Arrival) the City of <hi>London</hi> ſympathized on <date>Thurſday <hi>May 15. </hi>
+                  </date>   
+                  <hi>TOGETHER WITH</hi> A perfect Account of Her Happy and moſt Auſpicious MARIAGE to His moſt Sacred MAJESTY, on <date>
+                     <hi>Wedneſday May</hi> 21.</date> by the Right Reverend Father in GOD, <hi>Gilbert</hi> Lord Biſhop of <hi>London;</hi> As alſo of their Removal from thence to His Majeſties Royal Mannor of <hi>Hampton Court,</hi> on <date>
+                     <hi>Thurſday May</hi> 29.</date> which Day, was the Star-crown'd Birth-day of His MAJESTY.</p>
+            </argument>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>HE <hi>Queens</hi> Approach no ſooner fill'd our Ears,</l>
+               <l>But we were all ſtrait turn'd <hi>Geographers;</hi>
+               </l>
+               <l>We vex'd the <hi>Maps</hi> to give us an Account</l>
+               <l>Of <hi>Scillyes</hi> Iſland, and Saint <hi>Michael</hi>'s Mount;</l>
+               <l>We every Inch examin'd, every Joynt,</l>
+               <l>Searching from <hi>Dartmouth</hi> to Saint <hi>Ellen</hi>'s Poynt;</l>
+               <l>And all the Coaſts of th' <hi>Iſle of Wight</hi> being ſeen,</l>
+               <l>We look'd for <hi>Portſmouth,</hi> and there found our <hi>Q<g ref="char:V">Ʋ</g>EEN.</hi>
+               </l>
+               <l>See where <hi>She</hi> rides, Her Beauties do adorn,</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+               <l>The Light, which from then uncontrolled flyes,</l>
+               <l>Dazles the <hi>Sun</hi> to look upon Her <hi>Eyes;</hi>
+               </l>
+               <l>There need no Knots of <hi>Ribbons</hi> in Her <hi>Hair,</hi>
+               </l>
+               <l>The laughing <hi>Stars</hi> in knots are radiant there.</l>
+            </lg>
+            <lg>
+               <l>No ſooner ſhipp'd for <hi>ENGLAND She</hi> ſet ſaile,</l>
+               <l>But <hi>Neptune</hi> ſent forth a Tempeſtuous Gale,</l>
+               <l>When loe Her <hi>Beauties</hi> charm'd the <hi>Winds</hi> loud rage,</l>
+               <l>Calm'd the <hi>Wilde Waves,</hi> and did the <hi>Sea</hi> aſſwage;</l>
+               <l>At which loud <hi>Triton</hi> did his ſuit prefer</l>
+               <l>To entertain him for Her <hi>Trumpeter,</hi>
+               </l>
+               <l>And many a <hi>Meremaid</hi> did attend upon Her,</l>
+               <l>And humbly begg'd to be Her <hi>Mayds of Honour;</hi>
+               </l>
+               <l>The <hi>Dolphins</hi> neer Her ſhoal'd, and with their Train</l>
+               <l>Swept the <hi>Salt Deep,</hi> and cut the <hi>Foaming Main;</hi>
+               </l>
+               <l>So great the Tumult, one might well ſuppoſe</l>
+               <l>From <hi>Love,</hi> not <hi>Rage</hi> the late great <hi>Tempeſt</hi> roſe;</l>
+               <l>The <hi>Waves</hi> t' enjoy Her ſight could not forbear</l>
+               <l>To leap into the Element of <hi>Air,</hi>
+               </l>
+               <l>The <hi>Air,</hi> to bear ſo fair a Burden, fain</l>
+               <l>Would change its place and nature with the <hi>Main,</hi>
+               </l>
+               <l>Whilſt <hi>Winds</hi> (that ſtruggled who ſhould moſt have crown'd Her.</l>
+               <l>So ſinn'd by Zeal, that they almoſt had drown'd Her.</l>
+            </lg>
+            <lg>
+               <l>Landed at laſt; Saint <hi>Michael</hi>'s Mount muſt be</l>
+               <l>The onely place, where happy <hi>Deſtinie</hi>
+               </l>
+               <l>Decreed, that firſt this <hi>Princeſſe</hi> ſhould be found</l>
+               <l>To plant Her foot upon the <hi>Engliſh</hi> Ground;</l>
+               <l>
+                  <gap reason="illegible: damage" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> here of Time ſome reſpite being ſpent</l>
+               <l>In Gratulation, and in Complement,</l>
+               <l>To give a ſhort Refreſhment, and to eaſe</l>
+               <l>Her Body, weary of the churliſh <hi>Seas,</hi>
+               </l>
+               <l>The <hi>Frigots</hi> put to Sea, and did convey</l>
+               <l>This <hi>Matchleſs Princeſs</hi> unto <hi>Portſmouth</hi> Bay;</l>
+               <l>Here as along the <hi>Engliſh</hi> Coaſts they work,</l>
+               <l>
+                  <hi>She</hi> was incountred by the Duke of <hi>York,</hi>
+               </l>
+               <l>And <hi>Cheſterfields,</hi> and <hi>Suffolks</hi> Earls, with whom</l>
+               <l>A gallant Train of <hi>Gentlemen</hi> did come:</l>
+               <l>Heere the <hi>Sea</hi> grew more milde, and all the way</l>
+               <l>Now ſeem'd as gentle, and as ſmooth as they,</l>
+               <l>The <hi>Winds</hi> ſo friendly, and the <hi>Seas</hi> ſo tame,</l>
+               <l>From th' <hi>Iſle of Wight</hi> She unto <hi>Portſmouth</hi> came;</l>
+               <l>Now <hi>Bonſires</hi> warm the <hi>Air, Healths</hi> drench the <hi>Earth,</hi>
+               </l>
+               <l>
+                  <hi>Portſmouth</hi> the Center, and the Stage of <hi>Mirth;</hi>
+               </l>
+               <l>Some uſe their <hi>Tongues,</hi> and ſpeak their Mirth in <hi>Fancies,</hi>
+               </l>
+               <l>Others their <hi>Feet,</hi> and tread their Joys in <hi>Dances;</hi>
+               </l>
+               <l>All things do ſmile, and do conſpire outright</l>
+               <l>To mingle <hi>Royal Greatneſſe</hi> with <hi>Delight:</hi>
+               </l>
+               <l>The Moneth is <hi>May,</hi> and the dreſs'd <hi>Spring</hi> doth ſtand</l>
+               <l>In all her Pride to welcome <hi>Her</hi> to <hi>Land;</hi>
+               </l>
+               <l>Heere <hi>Youth</hi> and <hi>Love</hi> do <hi>Pomp</hi> and <hi>Honour</hi> greet,</l>
+               <l>And <hi>Peace</hi> and <hi>Safety</hi> walk in every <hi>Street;</hi>
+               </l>
+               <l>And <hi>Heav'n,</hi> the more his <hi>Bleſſings</hi> to unfold,</l>
+               <l>Doth haile down <hi>Pearls,</hi> and rains down riguous <hi>Gold.</hi>
+               </l>
+               <l>This was the Place where firſt His MAIESTIE</l>
+               <l>His <hi>Matchleſſe Spouſe</hi> Queen <hi>KATHARINE</hi> did ſee;</l>
+               <l>For though 'twas <hi>Cornwall</hi> to the <hi>Q<g ref="char:V">Ʋ</g>EEN</hi> did bring</l>
+               <l>The happy ſight of <hi>ENGLAND,</hi> yet the KING</l>
+               <l>(But when Her <hi>Picture</hi> did preſent the ſame)</l>
+               <l>Ne'r ſaw His <hi>Q<g ref="char:V">Ʋ</g>EEN</hi> till <hi>She</hi> to <hi>Portſmouth</hi> came.</l>
+            </lg>
+            <lg>
+               <l>T' expreſs the <hi>State</hi> and <hi>Glory</hi> of this <hi>Day,</hi>
+               </l>
+               <l>When <hi>eyes</hi> did <hi>eyes,</hi> and <hi>ſouls</hi> did <hi>ſouls</hi> ſurvey,</l>
+               <l>When <hi>Nobles</hi> ſtrove who ſhould exceed each other,</l>
+               <l>And <hi>Pomp,</hi> and <hi>Joy,</hi> to conquer one another,</l>
+               <l>Would be too large a <hi>Subject</hi> to ingage</l>
+               <l>The narrow Compaſs of ſo ſhort a Page.</l>
+            </lg>
+            <lg>
+               <l>From hence theſe Royal <hi>Conſorts</hi> did transfer</l>
+               <l>Their <hi>Sacred Perſons</hi> unto <hi>Wincheſter;</hi>
+               </l>
+               <l>Here they are are new united, by a bleſt</l>
+               <l>And ſolemn <hi>Marriage;</hi> here the KING poſſeſt</l>
+               <l>
+                  <hi>Earth</hi> pure as <hi>Heav'n,</hi> and ſtain'd with no Alloy,</l>
+               <l>
+                  <hi>Braganzaes</hi> Glory, and <hi>Terrezaes</hi> Joy.</l>
+            </lg>
+            <lg>
+               <l>From theſe United <hi>Loves,</hi> may the <hi>Flames</hi> riſe</l>
+               <l>Pure, and Unwaving, till they touch the <hi>Skies:</hi>
+               </l>
+               <l>May they new <hi>Bleſſings</hi> to this <hi>Land</hi> invite,</l>
+               <l>And fill the World with their <hi>
+                     <g ref="char:V">Ʋ</g>nited Light;</hi>
+               </l>
+               <l>May their <hi>Loves</hi> be a <hi>Sacrifice</hi> t'attone</l>
+               <l>Their Peoples <hi>Rage,</hi> and make their <hi>Hearts</hi> but one;</l>
+               <l>May the <hi>Church</hi> flouriſh in her <hi>Truth</hi> and <hi>Train,</hi>
+               </l>
+               <l>And be as White as <hi>Innocence</hi> again;</l>
+               <l>May thoſe who ſcorn'd us in our late <hi>Diſtreſſe,</hi>
+               </l>
+               <l>Now fear, and wonder at our <hi>Happineſs;</hi>
+               </l>
+               <l>Whiles every <hi>Street</hi> reſounds, and every <hi>Green,</hi>
+               </l>
+               <l>
+                  <hi>GOD Save the</hi> KING, <hi>GOD long preſerve our</hi> QUEEN.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>C. Wildeberh</hi> at the <hi>Globe</hi> in St. <hi>Katharines,</hi> and <hi>John Ruddiard</hi> at the <hi>Unicorn</hi> in <hi>Cornhill,</hi> under the <hi>Royal Exchange.</hi> 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
